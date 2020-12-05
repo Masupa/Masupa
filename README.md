@@ -1,6 +1,6 @@
 ### Hi, I'm David 👋
 ___
-<img src='https://github.com/Masupa/Masupa/blob/main/assets/picture.jpg' width='100%' height='300'>
+<img src='https://github.com/Masupa/Masupa/blob/main/assets/web.jpg' width='100%' height='300'>
 I am a 4th year student at the <a href="http://www.alueducation.com/" >African Leadership University</a>. I am passionate about AI, Machine Learning & Data Science, and I am all about mining value from data to turn it into business outcomes.
 
 ## Fun Facts & Interests
@@ -18,6 +18,8 @@ I am a 4th year student at the <a href="http://www.alueducation.com/" >African L
   * Pandas
   * Scikit-Learn
   * Matplotlib & Seaborn
+* SQL
+* Tableau
 
 <!--
 **Masupa/Masupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
