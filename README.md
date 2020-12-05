@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://github.com/Masupa/Masupa/blob/main/assets/picture.jpg'>
+<img src='https://github.com/Masupa/Masupa/blob/main/assets/picture.jpg' style="width:500px;height:250px;>
 
 <!--
 **Masupa/Masupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
