@@ -20,6 +20,18 @@ ___
   * Pandas
   * Scikit-Learn
   * Matplotlib & Seaborn
+* Machine Learning
+  * Supervised Learning
+    * Linear & Log Regression
+    * SVM
+    * Decision Trees, Random Forest
+    * Ensembles Models
+  * Unsupervised Learning
+    * Kmeans
+    * Agglomerative Algo's (Single, Avg, Complete & Ward)
+    * DBSCAN
+  * Reinforcement Learning (Currently exploring this area)
+* Deep Learning (Soon explore this area)
 * SQL
 * Tableau
 * A/B Testing
