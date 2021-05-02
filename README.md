@@ -1,7 +1,7 @@
 ### Hi, I'm David 👋
 ___
 <img src='https://github.com/Masupa/Masupa/blob/main/assets/web.jpg' width='100%' height='300'>
-I am a 4th year student at the <a href="http://www.alueducation.com/" >African Leadership University</a>. I am passionate about AI, Machine Learning & Data Science.
+I'm passionate about Advanced Analytics, Machine Learning and Data Science.
 
 ### Fun Facts & Interests
 ___
